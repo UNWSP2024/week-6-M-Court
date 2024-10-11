@@ -1,0 +1,14 @@
+Pseudocode for program 3:
+
+create a function for finding and adding tax
+		1. find sales tax by multiplying total sales by 5%
+		2. find county tax by multiplying total sales by 2.5%
+		3. add sales and county tax together to find total tax
+
+Ask user for total sales amount
+
+Call tax function to find total tax
+
+Add tax to total sales
+
+Display the new total
