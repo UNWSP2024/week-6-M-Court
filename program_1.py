@@ -28,4 +28,4 @@ for dice_sum in range(1,101):
 average = total / 100
 
 #prints average
-print(f"the average of 100 random rolls is {average:.3}")
+print(f"the average of 100 random rolls is {average:.2f}")
